@@ -21,4 +21,5 @@
 - [Addressing the core dimensions of responsible AI on Bedrock](https://aws.amazon.com/blogs/machine-learning/considerations-for-addressing-the-core-dimensions-of-responsible-ai-for-amazon-bedrock-applications/)
 - [Jailbreaking LLM study](https://unit42.paloaltonetworks.com/jailbreaking-generative-ai-web-products/)
 - [Hacking LLM-based robots to do actual harm](https://blog.seas.upenn.edu/penn-engineering-research-discovers-critical-vulnerabilities-in-ai-enabled-robots-to-increase-safety-and-security/)
-- 
+- [Grounding checks](https://docs.aws.amazon.com/bedrock/latest/userguide/guardrails-contextual-grounding-check.html)
+- [Sagemaker studio lab](https://studiolab.sagemaker.aws/)
