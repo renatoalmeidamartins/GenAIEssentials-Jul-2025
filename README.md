@@ -8,6 +8,7 @@
 ## Additional study resources
 - [Gen AI material on Skill builder](https://skillbuilder.aws/category/domain/generative-ai?page=1)
 - [AI practitioner exam prep](https://aws.amazon.com/certification/certified-ai-practitioner/)
+- [Ai practitioner exam simulation (free, 20 questions)](https://skillbuilder.aws/learn/PWGBM4E8ZM/official-practice-exam-aws-certified-ai-practitioner-aifc01--english/B1MF12M4GE)
 
 
 ## Class materials
