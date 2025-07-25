@@ -15,3 +15,7 @@
 - [Sagemaker Clarify for model transparency and explainability, mostly on traditional ML](https://aws.amazon.com/sagemaker-ai/clarify/)
 - [Prompt engineering defined, by AWS](https://aws.amazon.com/what-is/prompt-engineering/)
 - [Good collection of prompt engineering techniques, along with examples](https://www.promptingguide.ai/)
+- [Implementing advanced prompt engineering with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/implementing-advanced-prompt-engineering-with-amazon-bedrock/)
+- [Rufus, the LLM-powered chatbot inside the Amazon app](https://www.aboutamazon.com/news/retail/how-to-use-amazon-rufus)
+- [Using GenAI on Amazon Pharmacy](https://www.aboutamazon.com/news/retail/how-amazon-pharmacy-uses-generative-ai)
+- 
