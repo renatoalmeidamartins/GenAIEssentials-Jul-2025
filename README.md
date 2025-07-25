@@ -8,3 +8,4 @@
 - [Neural network zoo](https://www.asimovinstitute.org/neural-network-zoo/)
 - [Train / Validation / Test datasets in machine learning](https://www.v7labs.com/blog/train-validation-test-set)
 - [Transformer architecture in Artificial intelligence](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
+- [Built-in Sagemaker algorithms for text data](https://docs.aws.amazon.com/sagemaker/latest/dg/algorithms-text.html)
