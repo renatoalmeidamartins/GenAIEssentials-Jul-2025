@@ -29,3 +29,7 @@
 - [AWS Audit manager for Gen AI](https://aws.amazon.com/blogs/mt/aws-audit-manager-launches-aws-best-practices-framework-for-generative-ai/)
 - [Zero trust architecture paper by NIST](https://www.nist.gov/publications/zero-trust-architecture)
 - [Using prompt datasets and available evaluation dimensions in model evaluation jobs](https://docs.aws.amazon.com/sagemaker/latest/dg/clarify-foundation-model-evaluate-overview.html)
+- [Bedrock model evaluation](https://aws.amazon.com/blogs/aws/amazon-bedrock-model-evaluation-is-now-generally-available/)
+- [LLM as a judge](https://aws.amazon.com/blogs/machine-learning/llm-as-a-judge-on-amazon-bedrock-model-evaluation/)
+- [Additional details for model evaluation](https://aws.amazon.com/blogs/aws/evaluate-compare-and-select-the-best-foundation-models-for-your-use-case-in-amazon-bedrock-preview/)
+- [Benchmarking customized models on Amazon Bedrock using LLMPerf and LiteLLM](https://aws.amazon.com/blogs/machine-learning/benchmarking-customized-models-on-amazon-bedrock-using-llmperf-and-litellm/)
