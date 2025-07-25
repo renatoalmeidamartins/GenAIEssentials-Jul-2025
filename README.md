@@ -19,4 +19,6 @@
 - [Rufus, the LLM-powered chatbot inside the Amazon app](https://www.aboutamazon.com/news/retail/how-to-use-amazon-rufus)
 - [Using GenAI on Amazon Pharmacy](https://www.aboutamazon.com/news/retail/how-amazon-pharmacy-uses-generative-ai)
 - [Addressing the core dimensions of responsible AI on Bedrock](https://aws.amazon.com/blogs/machine-learning/considerations-for-addressing-the-core-dimensions-of-responsible-ai-for-amazon-bedrock-applications/)
+- [Jailbreaking LLM study](https://unit42.paloaltonetworks.com/jailbreaking-generative-ai-web-products/)
+- [Hacking LLM-based robots to do actual harm](https://blog.seas.upenn.edu/penn-engineering-research-discovers-critical-vulnerabilities-in-ai-enabled-robots-to-increase-safety-and-security/)
 - 
