@@ -12,3 +12,4 @@
 - [Higher-level view of the built-in sagemaker models](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
 - [Using Bedrock knowledge bases to connect to structured data](docs.aws.amazon.com/bedrock/latest/userguide/knowledge-base-build-structured.html)
 - [Prompt engineering for different model families in Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-engineering-guidelines.html)
+- [Sagemaker Clarify for model transparency and explainability, mostly on traditional ML](https://aws.amazon.com/sagemaker-ai/clarify/)
