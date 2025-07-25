@@ -28,3 +28,4 @@
 - [Sagemaker workshops](https://www.workshops.aws/categories/SageMaker)
 - [AWS Audit manager for Gen AI](https://aws.amazon.com/blogs/mt/aws-audit-manager-launches-aws-best-practices-framework-for-generative-ai/)
 - [Zero trust architecture paper by NIST](https://www.nist.gov/publications/zero-trust-architecture)
+- [Using prompt datasets and available evaluation dimensions in model evaluation jobs](https://docs.aws.amazon.com/sagemaker/latest/dg/clarify-foundation-model-evaluate-overview.html)
