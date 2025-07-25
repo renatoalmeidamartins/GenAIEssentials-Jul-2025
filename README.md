@@ -13,3 +13,5 @@
 - [Using Bedrock knowledge bases to connect to structured data](docs.aws.amazon.com/bedrock/latest/userguide/knowledge-base-build-structured.html)
 - [Prompt engineering for different model families in Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-engineering-guidelines.html)
 - [Sagemaker Clarify for model transparency and explainability, mostly on traditional ML](https://aws.amazon.com/sagemaker-ai/clarify/)
+- [Prompt engineering defined, by AWS](https://aws.amazon.com/what-is/prompt-engineering/)
+- [Good collection of prompt engineering techniques, along with examples](https://www.promptingguide.ai/)
