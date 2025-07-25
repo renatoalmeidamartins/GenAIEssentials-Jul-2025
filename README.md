@@ -1,3 +1,8 @@
 # GenAIEssentials-Jul-2025
-## Class links
+## Class materials
 - [Access to labs](https://us-east-1.student.classrooms.aws.training/class/kEgpocEHHUmzum6dAztHUi)
+
+## Content links
+- [Artificial neuron](https://en.wikipedia.org/wiki/Artificial_neuron)
+- [Perceptron](https://en.wikipedia.org/wiki/Perceptron)
+- [Neural network zoo](https://www.asimovinstitute.org/neural-network-zoo/)
