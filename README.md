@@ -26,3 +26,4 @@
 - [AWS re:Inforce 2024 - Mitigate OWASP Top 10 for LLM risks with a Zero Trust approach (GAI323)](https://www.youtube.com/watch?v=eOmgoNIC7a0)
 - [Bedrock guardrails workshop](https://catalog.workshops.aws/bedrockguard/en-US)
 - [Sagemaker workshops](https://www.workshops.aws/categories/SageMaker)
+- [AWS Audit manager for Gen AI](https://aws.amazon.com/blogs/mt/aws-audit-manager-launches-aws-best-practices-framework-for-generative-ai/)
