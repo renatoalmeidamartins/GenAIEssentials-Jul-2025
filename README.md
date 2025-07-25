@@ -5,6 +5,11 @@
 - Then go on the top right to My Account, then transcript, click on the Archived section (direct link [https://www.aws.training/Account/Transcript/Archived](https://www.aws.training/Account/Transcript/Archived)
 - You should see the class, with a button to evaluate
 
+## Additional study resources
+- [Gen AI material on Skill builder](https://skillbuilder.aws/category/domain/generative-ai?page=1)
+- [AI practitioner exam prep](https://aws.amazon.com/certification/certified-ai-practitioner/)
+
+
 ## Class materials
 - [Access to labs](https://us-east-1.student.classrooms.aws.training/class/kEgpocEHHUmzum6dAztHUi)
 
