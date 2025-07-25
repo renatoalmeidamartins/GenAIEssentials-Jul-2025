@@ -33,3 +33,4 @@
 - [LLM as a judge](https://aws.amazon.com/blogs/machine-learning/llm-as-a-judge-on-amazon-bedrock-model-evaluation/)
 - [Additional details for model evaluation](https://aws.amazon.com/blogs/aws/evaluate-compare-and-select-the-best-foundation-models-for-your-use-case-in-amazon-bedrock-preview/)
 - [Benchmarking customized models on Amazon Bedrock using LLMPerf and LiteLLM](https://aws.amazon.com/blogs/machine-learning/benchmarking-customized-models-on-amazon-bedrock-using-llmperf-and-litellm/)
+- [Sagemaker model monitor](https://docs.aws.amazon.com/sagemaker/latest/dg/model-monitor.html)
