@@ -23,3 +23,6 @@
 - [Hacking LLM-based robots to do actual harm](https://blog.seas.upenn.edu/penn-engineering-research-discovers-critical-vulnerabilities-in-ai-enabled-robots-to-increase-safety-and-security/)
 - [Grounding checks](https://docs.aws.amazon.com/bedrock/latest/userguide/guardrails-contextual-grounding-check.html)
 - [Sagemaker studio lab](https://studiolab.sagemaker.aws/)
+- [AWS re:Inforce 2024 - Mitigate OWASP Top 10 for LLM risks with a Zero Trust approach (GAI323)](https://www.youtube.com/watch?v=eOmgoNIC7a0)
+- [Bedrock guardrails workshop](https://catalog.workshops.aws/bedrockguard/en-US)
+- [Sagemaker workshops](https://www.workshops.aws/categories/SageMaker)
