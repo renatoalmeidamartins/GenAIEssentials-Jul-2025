@@ -1,4 +1,10 @@
 # GenAIEssentials-Jul-2025
+## Class evaluation
+- Go to [aws.training](https://www.aws.training/)
+- Click sign in, log in with the same account you used to access the lab and course materials
+- Then go on the top right to My Account, then transcript, click on the Archived section (direct link [https://www.aws.training/Account/Transcript/Archived](https://www.aws.training/Account/Transcript/Archived)
+- You should see the class, with a button to evaluate
+
 ## Class materials
 - [Access to labs](https://us-east-1.student.classrooms.aws.training/class/kEgpocEHHUmzum6dAztHUi)
 
