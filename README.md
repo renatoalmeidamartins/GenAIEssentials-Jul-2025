@@ -18,4 +18,5 @@
 - [Implementing advanced prompt engineering with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/implementing-advanced-prompt-engineering-with-amazon-bedrock/)
 - [Rufus, the LLM-powered chatbot inside the Amazon app](https://www.aboutamazon.com/news/retail/how-to-use-amazon-rufus)
 - [Using GenAI on Amazon Pharmacy](https://www.aboutamazon.com/news/retail/how-amazon-pharmacy-uses-generative-ai)
+- [Addressing the core dimensions of responsible AI on Bedrock](https://aws.amazon.com/blogs/machine-learning/considerations-for-addressing-the-core-dimensions-of-responsible-ai-for-amazon-bedrock-applications/)
 - 
